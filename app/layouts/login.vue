@@ -1,0 +1,12 @@
+<template>
+  <div>
+    <h1>Login layout</h1>
+    <slot />
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style lang="scss" scoped></style>
