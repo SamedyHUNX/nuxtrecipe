@@ -2,8 +2,6 @@
 export default {};
 </script>
 
-<style lang="scss" scoped></style>
-
 <template>
   <header class="py-4 border-b">
     <nav class="flex container items-center">
