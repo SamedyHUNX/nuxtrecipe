@@ -1,6 +1,26 @@
-# Nuxt Minimal Starter
+# Nuxt Recipe App
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+A modern recipe application built with Nuxt 3, Vue.js, and Tailwind CSS. Browse a delicious collection of recipes, view detailed instructions, and explore culinary inspirations.
+
+## Features
+
+- 🍳 **Browse Recipes**: Explore a wide variety of recipes.
+- 📝 **Recipe Details**: View detailed ingredients and cooking instructions.
+- 🎨 **Responsive Design**: Beautifully styled with Tailwind CSS for all devices.
+- ⚡ **Nuxt 3 Power**: Fast performance with server-side rendering.
+
+## Tech Stack
+
+- **Framework**: [Nuxt 3](https://nuxt.com/)
+- **UI Library**: [Vue.js 3](https://vuejs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Icons**: [Nuxt Icon](https://nuxt.com/modules/icon)
+- **Images**: [Nuxt Image](https://image.nuxt.com/)
 
 ## Setup
 
